@@ -1,0 +1,10 @@
+33 | open | 12/10/2025 | killing | strangulation | bareHands | room | rick | 56 | 455 
+44 | closed | 12/30/2004 | killing | gunshot | ak-47 | mall | aliya | 21 | 10
+55 | open | 12/12/2025 | eath of a student | ng fight | n force | iversity | iya | 21 | 10
+55 | open | 12/12/2025 | treet killing | street fight | knife t | local market | dildar sing | 23 | 4
+66 | open | 23/10/2024 | killing of a student | gang fight | man force | university cafe | nich johnes | 28 | 7
+88 | open | 1/12/2023 | murder on street | axe attack | axe | open field | david george | 43 | 7
+77 | open  -> closed| 1/5/25 | killing in the uni | gang fight | manpower | uni | ali | 21 | 5
+88 | closed | 12/12/2002 | murder of student | dunshot | gun j | uni | amna abid | 21 | 2
+99 | open | 3/4/25 | killing of a student | gang fight | gun | uni | alishba | 21 | 1
+

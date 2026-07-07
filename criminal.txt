@@ -1,0 +1,57 @@
+`Name                     | Country         | Crime Type                    | Victims / Details        | Status
+-----------------------------------------------------------------------------------------------------------
+Ted Bundy                | USA             | Serial Killer                 | 30+ victims              | Executed (1989)
+Jeffrey Dahmer           | USA             | Serial Killer                 | 17 victims               | Killed in prison
+John Wayne Gacy          | USA             | Serial Killer                 | 33 victims               | Executed (1994)
+Aileen Wuornos           | USA             | Serial Killer                 | 7 victims                | Executed (2002)
+Jack the Ripper          | UK              | Serial Killer                 | 5 victims                | Unidentified
+Charles Manson           | USA             | Cult Leader                   | Multiple murders         | Died in prison
+Richard Ramirez          | USA             | Serial Killer                 | 13 victims               | Died in prison
+Dennis Rader (BTK)       | USA             | Serial Killer                 | 10 victims               | Life imprisonment
+Zodiac Killer            | USA             | Serial Killer                 | 5+ victims               | Unidentified
+Ed Gein                  | USA             | Murderer                     | 2 confirmed victims      | Died in custody
+Andrei Chikatilo         | USSR            | Serial Killer                 | 52 victims               | Executed (1994)
+Pedro López              | Colombia        | Serial Killer                 | 100+ victims             | Released
+Harold Shipman           | UK              | Serial Killer                 | 250+ victims             | Suicide in prison
+H.H. Holmes              | USA             | Serial Killer                 | 27 victims               | Executed (1896)
+Belle Gunness            | USA             | Serial Killer                 | 40+ victims              | Presumed dead
+Albert Fish              | USA             | Serial Killer                 | 3 confirmed victims      | Executed (1936)
+Gary Ridgway             | USA             | Serial Killer                 | 49 victims               | Life imprisonment
+David Berkowitz          | USA             | Serial Killer                 | 6 victims                | Life imprisonment
+Peter Sutcliffe           | UK              | Serial Killer                 | 13 victims               | Died in prison
+Rosemary West            | UK              | Serial Killer                 | 12 victims               | Life imprisonment
+Fred West                | UK              | Serial Killer                 | 12 victims               | Suicide in custody
+Pablo Escobar            | Colombia        | Drug Lord                     | Narco-terrorism          | Killed (1993)
+El Chapo                 | Mexico          | Drug Lord                     | Global trafficking       | Life imprisonment
+Al Capone                | USA             | Gangster                      | Organized crime          | Died (1947)
+Lucky Luciano            | USA             | Mafia Boss                    | Organized crime          | Died (1962)
+John Dillinger           | USA             | Bank Robber                   | Multiple robberies       | Killed (1934)
+Bonnie Parker            | USA             | Outlaw                        | Armed robberies          | Killed (1934)
+Clyde Barrow             | USA             | Outlaw                        | Armed robberies          | Killed (1934)
+Charles Ponzi            | USA             | Fraudster                     | Financial fraud          | Died (1949)
+Bernie Madoff            | USA             | Fraudster                     | Ponzi scheme             | Died in prison
+Jordan Belfort           | USA             | Fraudster                     | Stock fraud              | Released
+Frank Abagnale           | USA             | Con Artist                    | Check fraud              | Reformed
+Elizabeth Holmes         | USA             | Fraudster                     | Corporate fraud          | Imprisoned
+Rod Blagojevich          | USA             | Corruption                    | Political corruption     | Released
+O.J. Simpson             | USA             | Double murder (acquitted)     | High-profile case        | Deceased
+Oscar Pistorius          | South Africa    | Murder                        | Partner killing          | Imprisoned
+Anders Breivik           | Norway          | Mass Murderer                 | 77 victims               | Life imprisonment
+Brenton Tarrant          | New Zealand     | Mass Murderer                 | 51 victims               | Life imprisonment
+Timothy McVeigh          | USA             | Domestic Terrorism            | 168 victims              | Executed (2001)
+Osama bin Laden          | Saudi Arabia    | Terrorism                     | 9/11 attacks             | Killed (2011)
+Ayman al-Zawahiri        | Egypt           | Terrorism                     | Al-Qaeda leader          | Killed (2022)
+Saddam Hussein           | Iraq            | Crimes against humanity       | Mass executions          | Executed (2006)
+Slobodan Milošević       | Serbia          | War Crimes                    | Ethnic cleansing         | Died during trial
+Ratko Mladić             | Bosnia          | War Crimes                    | Genocide                 | Life imprisonment
+Pol Pot                  | Cambodia        | Genocide                      | 2 million deaths         | Died (1998)
+Joseph Stalin            | USSR            | Political repression          | Mass purges              | Died (1953)
+Adolf Hitler             | Germany         | Genocide                      | Holocaust                | Suicide (1945)
+Benito Mussolini         | Italy           | War crimes                    | Fascist regime           | Executed (1945)
+Idi Amin                 | Uganda          | Mass murder                   | Political killings       | Died (2003)
+Ferdinand Marcos         | Philippines    | Corruption                    | Human rights abuses      | Died (1989)
+Griselda Blanco          | Colombia        | Drug trafficking              | Cocaine trade            | Killed (2012)
+Whitey Bulger            | USA             | Organized crime               | Murder                   | Killed in prison
+Dawood Ibrahim           | India           | Organized crime               | Terror financing         | Fugitive
+Ajmal Kasab              | Pakistan        | Terrorism                     | Mumbai attacks           | Executed (2012)
+Ted Kaczynski            | USA             | Domestic terrorism            | Unabomber                | Died (2023)
